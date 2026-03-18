@@ -1,0 +1,25 @@
+# Visual Studio 临时文件夹
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# 编译生成的中间文件
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.lastbuildstate
+*.idb
+*.recipe
+*.log
+
+# 可执行文件
+*.exe
+*.dll
+*.lib
+
+# Visual Studio 用户个性化设置（可选，通常建议忽略）
+*.vcxproj.user
+*.suo
